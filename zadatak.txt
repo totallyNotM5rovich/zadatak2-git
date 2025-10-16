@@ -1,0 +1,13 @@
+Zadatak 2:
+Prijavite se na korisnički račun na GitHub-u, svaki polaznik svoj: https://github.com/ (ili neki aktualni repozitorij)
+Kreirajte inicijalni repozitorij, tj. inicijalizirajte git
+Pokrenite GIT Bash
+Povežite lokalni i udaljeni repozitorij.
+Kreirajte GitIntro.java datoteku koja ispisuje na standardni izlaz tekst „GIT” i dodajte je u repozitorij
+Napravite inicijalni “commit” i promjene pospremite na udaljeni repozitorij.
+Kreirajte novu granu "development" te se prebacite na istu.
+Datoteku readme.txt otvorite u odabranom tekst editor te poslije imena i prezimena dodajte tekst po želji i spremite izmjene.
+Napravite “commit” I izmjene spojite s “master” granom.
+Objasnite značenje i svrhu .gitignore datoteke
+Promjene pošaljite na udaljeni repozitorij.
+  poslati poveznicu na GitHub repozitorij mailom na dinko.sulicek@predavaci.algebra.hr
